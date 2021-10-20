@@ -1,0 +1,22 @@
+{
+  "name": "fin-eeprom-read",
+  "version": "1.0.0",
+  "description": "read eeprom on the balenaFin",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balena-io-playground/fin-eeprom-read.git"
+  },
+  "author": "Alex Bucknall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/balena-io-playground/fin-eeprom-read/issues"
+  },
+  "homepage": "https://github.com/balena-io-playground/fin-eeprom-read#readme",
+  "dependencies": {
+    "debug": "^4.3.2"
+  }
+}
